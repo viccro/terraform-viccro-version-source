@@ -4,5 +4,5 @@ terraform {
 
 
 output "hello_world" {
-  value = "Hiya, ${var.name}"
+  value = "Hiya again, ${var.name}"
 }
